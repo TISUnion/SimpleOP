@@ -1,0 +1,16 @@
+{
+	"id": "simple_op",
+	"version": "1.1.0",
+	"name": "Simple OP",
+	"description": {
+		"en_us": "!!op to get op, !!restart to restart the server",
+		"zh_cn": "!!op 以获取op, !!restart 以重启服务器"
+	},
+	"author": [
+		"Fallen_Breath"
+	],
+	"link": "https://github.com/MCDReforged/SimpleOP",
+	"resources": [
+		"lang"
+	]
+}

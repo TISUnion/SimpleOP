@@ -1,0 +1,5 @@
+simple_op.help.op: '给我op'
+simple_op.help.restart: '重启服务器，延迟{0}秒'
+simple_op.op.needs_player: '你需要是一个玩家'
+simple_op.restart.spam: '已经在重启了'
+simple_op.restart.countdown: '{0}秒后重启服务器！'
