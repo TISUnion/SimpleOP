@@ -13,8 +13,8 @@ restart_lock = Lock()
 config = Config.get_default()
 
 
-def tr(translation_key: str, *args, **kwargs):
-	return ServerInterface.get_instance().tr('{}.{}'.format(PLUGIN_METADATA.id, translation_key), *args, **kwargs)
+def tr(translation_key: str, *args, **kwargs) -> RTextMCDRTranslation:
+	return ServerInterface.get_instance().rtr('{}.{}'.format(PLUGIN_METADATA.id, translation_key), *args, **kwargs)
 
 
 @new_thread(PLUGIN_METADATA.name + ' - restart')
