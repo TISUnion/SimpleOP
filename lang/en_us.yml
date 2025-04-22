@@ -1,3 +1,4 @@
+simple_op.permission_denied: 'Permission denied'
 simple_op.help.op: 'Give me op'
 simple_op.help.restart: 'Restart the server with {0} seconds delay'
 simple_op.op.needs_player: 'You need to be a player'

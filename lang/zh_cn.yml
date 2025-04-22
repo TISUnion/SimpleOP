@@ -1,3 +1,4 @@
+simple_op.permission_denied: '权限不足'
 simple_op.help.op: '给我op'
 simple_op.help.restart: '重启服务器，延迟{0}秒'
 simple_op.op.needs_player: '你需要是一个玩家'
