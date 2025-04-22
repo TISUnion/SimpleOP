@@ -1,6 +1,6 @@
 {
 	"id": "simple_op",
-	"version": "1.2.0",
+	"version": "1.3.0",
 	"name": "Simple OP",
 	"description": {
 		"en_us": "!!op to get op, !!restart to restart the server",
@@ -10,7 +10,7 @@
 		"Fallen_Breath"
 	],
 	"dependencies": {
-		"mcdreforged": ">=2.1.0-beta"
+		"mcdreforged": ">=2.14.0"
 	},
 	"link": "https://github.com/MCDReforged/SimpleOP",
 	"resources": [
